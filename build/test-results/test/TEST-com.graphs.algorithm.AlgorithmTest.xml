@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.graphs.algorithm.AlgorithmTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-03-02T14:18:55.826Z" hostname="Mac" time="0.011">
+  <properties/>
+  <testcase name="demo()" classname="com.graphs.algorithm.AlgorithmTest" time="0.006"/>
+  <testcase name="dpv_figure_3_7()" classname="com.graphs.algorithm.AlgorithmTest" time="0.002"/>
+  <system-out><![CDATA[visited: A
+visited: B
+visited: C
+visited: D
+cc: 2
+visited: A
+visited: B
+visited: E
+visited: F
+visited: G
+visited: H
+visited: C
+visited: D
+cc: 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
